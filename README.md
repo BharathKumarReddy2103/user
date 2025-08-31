@@ -39,7 +39,7 @@ The **User Microservice** handles all user-related operations such as registrati
 
 ## Tech Stack
 
-- **Programming Language:** (specify, e.g. Node.js, Python, Go)
+- **Programming Language:** Java
 - **Framework:** (specify, e.g. Express, Flask, etc.)
 - **Database:** (specify, e.g. MongoDB, MySQL, etc.)
 - **Authentication:** JWT
